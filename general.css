@@ -1,0 +1,23 @@
+@import url(reset.css);
+@import url(hero.css);
+@import url(text.css);
+@import url(card.css);
+@import url(cards.css);
+@import url(button.css);
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;600;700&display=swap');
+
+html,
+body{
+    width: 100%;
+    font-size: 10px;
+    margin-left: auto;
+    margin-right:auto;
+}
+*{
+    box-sizing: border-box;
+}
+.container{
+    width: 95%;
+    margin-left:auto;
+    margin-right:auto;
+}
